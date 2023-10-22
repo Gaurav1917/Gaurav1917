@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning, Deep learning and NLP.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gaurav1917](https://github.com/Gaurav1917)
+- 👨‍💻 All of my projects are available at [https://github.com/Gaurav1917?tab=repositories](https://github.com/Gaurav1917?tab=repositories)
 
 - 📫 How to reach me **gaur91820@gmail.com**
 
